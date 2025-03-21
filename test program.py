@@ -1,0 +1,1 @@
+print ("hello world o i i a i")
